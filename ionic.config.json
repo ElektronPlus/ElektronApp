@@ -1,0 +1,8 @@
+{
+  "name": "Elektron++",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "4192bd13"
+}
