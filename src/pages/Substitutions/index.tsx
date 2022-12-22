@@ -1,8 +1,8 @@
 import { IonButtons, IonContent, IonHeader, IonMenuButton, IonPage, IonText, IonTitle, IonToolbar } from '@ionic/react';
 
-const Timetable: React.FC = () => {
+const Substitutions: React.FC = () => {
 
-  const name = "Timetable";
+  const name = "Substitutions";
 
   return (
     <IonPage>
@@ -13,4 +13,4 @@ const Timetable: React.FC = () => {
   );
 };
 
-export default Timetable;
+export default Substitutions;
